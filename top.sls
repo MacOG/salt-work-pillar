@@ -1,2 +1,3 @@
-{{saltenv}}:
+{{ saltenv }}:
   '*':
+    - nginx.content
