@@ -1,19 +1,20 @@
 #!yaml|gpg
 
-homepage: "Welcome to the RealOGS Tech Page"
-secret_web: |
+nginx.title: "Welcome to the RealOGS Tech Page"
+nginx.body: "Welcome to my awesome tech page"
+nginx.body_enc: |
   -----BEGIN PGP MESSAGE-----
   
-  hQGMAwiMU/DYjD9JAQwAr05OjF4WtOk4Ygr0qd3F0AoFvNVoHZ4obbl9L6CdOssy
-  bWYM2eaJyG55ZMc8e3BN3/Qp3uaXgLfgDYIghWF7toSzQ6koCRPuU+/ojNUlNtzv
-  SyplKH9kHoHrdWo3I3aXm9VbbrwCStomjaxJt2QJQXrCxwn+fTAYYxowvXEalN4V
-  Y4u8z/il9JYf1DMyk1H5FrzomXmmC5QZvdSRbatMKU42CaPR1slCPVERZm1Qmtu9
-  k4jPjOspMFnyb9V/QIIQIrqIK5imUKhTo9cw4fHjJkLEPzQxj67J27bZJih6Wk1Y
-  mWlxQ6iUbaCyver7Db1sEzhZ5cj965W6PyG6zzw1fqteIoDV6eH/R7pXxg46USpF
-  0ktM+Q6XvWomQ7pmRx4cUhsKkjTQMC954i3HFULle3UUAEQ4NQ3l1h1ErFX8QKOF
-  y1CpJZFB7T6/QQzlT0fziPRmuNFHwTJC1PDS3rSgGH2xMqM5LWi2l0HXEFI2/Zch
-  mXxft5vFE7cjsobG87lH1FUBCQIQqldF26eljbQNgnf7biMibCvC1bzL0k64smc+
-  6P4K0zJryt45Owev1dKh3QLec8X6snTMM5gz48l8yZFshjmn2LD+v/NOczuGJove
-  hIEzi9eb
-  =Qn+1
+  hQGMA1AUomVmg22zAQv/Wb4zhtyqhOWkg9zDRg6/ccOa0ddG2C6dwe/jF1xcP6IV
+  Romj0zc9pRrd3/zSHKFuxBpRbuaNlR/9gC8YCxoL0FrPDeKGWNTvSd2XpnXz56dH
+  LfcMuhcHWkBICWnNeNfhHnAt+NuhmgSo16Dw4dxhhBoLibfxt2IhOiX+WjuMEgIB
+  9SQhYaM4XDKq01xGP75CKmoyYUSCtTj/7AanjH6H445IBiZYIZh2WYIuTCyxg8oL
+  m4dqCl+XBmt5ea2T+AJgBTNgQE8nZ+V/UWtGVCJ9EM1bFp54UIvnaMDezDhBwpJZ
+  UutWHz+RL2qKHybk4f4C0fRTTPVaAa3xAHYkTH6Xr4JBY5ylLjF8uRIDGiJEmu4L
+  Qy69rmSAImhEKe0gQYfuiLv/47wRTM6zd6y8NRR1sm0M+OkY0KEWdzLLZ984bhx/
+  risjJsOikEAMRyWaOGeu8CdR1y2SOA8xpA3q7Uxdj9SElmmmJYUiOv19/GK3EHEX
+  dphxhpSRtlv+nWvFWfiS1GQBCQIQOf+nMYQxJa6tHkhhRvl9YdLk3s2CregMlU8G
+  Vclv+zsdJ7gHkVfqxeYVs+jlZccAcxHOyOUgtN8+9N35YgAH3YTWtaJGHnhiWu8Q
+  8Eel+l1OHeao3gX3FsGgKJupZM6n
+  =qrCL
   -----END PGP MESSAGE-----
