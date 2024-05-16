@@ -1,1 +1,1 @@
-log_level: debug
+minion.log_level: debug
