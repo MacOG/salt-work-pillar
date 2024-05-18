@@ -1,7 +1,7 @@
 {{ saltenv }}:
   '*':
     - nginx.content
-    - salt.minion.config
+    {#- salt.minion.config#}
   'N@dev':
     - match: compound
     - salt.minion.saltenv_dev
