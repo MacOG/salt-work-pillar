@@ -1,5 +1,5 @@
 #!yaml|gpg
-master: 'pillar_value'
+master: '192.168.7.197'
 master_finger: |
   -----BEGIN PGP MESSAGE-----
   
