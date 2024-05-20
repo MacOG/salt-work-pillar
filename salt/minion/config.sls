@@ -1,5 +1,5 @@
 #!yaml|gpg
-master: '192.168.7.197'
+master: '192.168.7.192'
 master_finger: |
   -----BEGIN PGP MESSAGE-----
   
