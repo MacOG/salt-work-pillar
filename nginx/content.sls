@@ -1,7 +1,7 @@
 #!yaml|gpg
 
 nginx.title: "Welcome to the RealOGS Tech Page"
-nginx.body: "Welcome to my awesome [TEST] tech page"
+nginx.body: "Welcome to my awesome [ABC] tech page"
 nginx.body_enc: |
   -----BEGIN PGP MESSAGE-----
   
