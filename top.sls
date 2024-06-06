@@ -1,5 +1,5 @@
 {{ saltenv }}:
-  'group1':
+  'sc1*.*':
     {# ALL #}
-    - match: nodegroup
+    - match: glob
     - nginx.content
