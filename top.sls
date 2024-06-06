@@ -1,4 +1,4 @@
 {{ saltenv }}:
-  '*':
+  'N@group1':
     {# ALL #}
-    - nginx.content #### - Something happened
+    - nginx.content
