@@ -1,5 +1,5 @@
 {{ saltenv }}:
-  'sc1.*':
+  'L@sc1.*':
     {# ALL #}
     - match: compound
     - nginx.content
