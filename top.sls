@@ -1,5 +1,5 @@
 {{ saltenv }}:
-  'N@group1':
+  'group1':
     {# ALL #}
-    - match: compound
+    - match: nodegroup
     - nginx.content
